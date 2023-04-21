@@ -40,7 +40,7 @@ def heat_up_cpu(temperature):
     q = multiprocessing.Queue()
 
     print("[CPU] - Spawning Processes to to Heat up CPU")
-    while(process_cnt <= multiprocessing.cpu_count() or cpu_temperature() > temperature):
+    while(process_cnt <= multiprocessing.cpu_count()):
         temp = multiprocessing.Process(target=round_robin)
         processes.append(temp)
         temp.start()
@@ -59,12 +59,16 @@ def heat_up_cpu(temperature):
             process.join(timeout=0.4)
             print("[CPU] - Terminated process sucessfully joined")
 
-    print("[CPU] - Finished heating up cpu")
+    time.sleep(0.1)
+    print(f"[CPU] - Finished heating up cpu. Currently at {cpu_temperature()}ºC")
     q.close()
+    
+    
+    cool_down_cpu(temperature)
 
-def cool_down_cpu(temperature, interval=5):
+def cool_down_cpu(temperature, interval=0.15):
+    print("[CPU] - Awaiting for cpu to cool down")
     while cpu_temperature() > temperature:
-        print("[CPU] - Awaiting for cpu to cool down")
         time.sleep(interval)
-    print("[CPU] - Finished cooling down")
+    print(f"[CPU] - Finished cooling down. Currently at {cpu_temperature()}ºC")
     

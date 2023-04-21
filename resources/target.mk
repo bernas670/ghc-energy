@@ -78,7 +78,7 @@ else
 
 
 # TODO: CHANGED THIS
-ENERGY = python3 $(TOP)/../src/wrapper.py
+ENERGY = python3 $(TOP)/../src/wrapper.py "./$(TOP)/.."
 
 # can use these to anotate run results
 # NOFIB_PROG -> name of the program

@@ -1,12 +1,12 @@
 inputs:
-  benchmarks: "./inputs/progs.txt"
-  flags: "./inputs/flags.txt"
+  benchmarks: "./resources/inputs/progs-test.txt"
+  flags: "./resources/inputs/flags-test.txt"
 
 number-of-executions: 10
 
 temperature:
-  baseline: 70
-  cooldown-interval: 10
+  baseline: 40
+  # cooldown-interval: 0.
 
 outputs:
   results: "./data/results.csv"
