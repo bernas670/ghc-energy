@@ -43,10 +43,11 @@ sudo chmod -R a+r /sys/class/powercap/intel-rapl
 ```
 
 ## Usage
-Before running the tool you must generate the input files for the benchmarks. Each benchmark has three different time `mode`s:
+Before running the tool you must generate the input files for the benchmarks. According to the [`nofib` docs](https://gitlab.haskell.org/ghc/nofib/-/blob/master/README.make.mkd#modes), each benchmark has three different time `mode`s:
  - `fast`: 0.1 - 0.2 seconds
  - `norm`: 1 - 2 seconds
  - `slow`: 5 - 10 seconds
+
 The default mode is `norm`, if you wish to change it you must do the following:
 ```
 cd nofib && \
