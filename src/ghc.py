@@ -3,13 +3,14 @@ import subprocess
 
 def compile(path, flag, num_runs=1):
     root_dir = os.getcwd()
+    print(f"root dir: {root_dir}")
     
     try:
-        os.chdir(path)
+        os.chdir(f"./nofib/{path}")
         
         # compile (run command)
         process = subprocess.Popen(
-                f"sudo make NoFibRuns={num_runs} EXTRA_HC_OPTS=\"-O2 {flag}\"",
+                f"make NoFibRuns={num_runs} EXTRA_HC_OPTS=\"-O2 {flag}\"",
                 shell=True
             )
         return_code = process.wait()
@@ -23,5 +24,6 @@ def compile(path, flag, num_runs=1):
         
     except Exception as e:
         print(e)
-
+        return -1
+    
     return return_code
