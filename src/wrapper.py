@@ -47,10 +47,10 @@ def main(top, command, program, flag):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Description of your program')
-    parser.add_argument('config_file', type=str, help='Description of arg1')
+    parser.add_argument('top', type=str, help='Description of arg1')
     parser.add_argument('command', type=str, help='Description of arg1')
     parser.add_argument('program', type=str, help='Description of arg2')
     parser.add_argument('flag', type=str, help='Description of arg2')
     args = parser.parse_args()
 
-    main(args.config_file, args.command, args.program, args.flag)
+    main(args.top, args.command, args.program, args.flag)
