@@ -1,6 +1,6 @@
 import yaml
 from ghc import compile
-
+from services import ServiceManager
 
 def file2array(filename):
     with open(filename, 'r') as file:
@@ -18,14 +18,15 @@ def main():
     flags = file2array(config['inputs']['flags'])
     progs = file2array(config['inputs']['benchmarks'])
 
-    # TODO: disable services
-
+    service_manager = ServiceManager()
+    service_manager.disable()
+    
     for prog in progs:
         for flag in flags:
 
-            compile(prog, flag, config['number-of-executions'])
+            compile(prog, flag, config['number-of-executions'], config['base-flags'], config['outputs']['logs'])
 
-    # TODO: enable services
+    service_manager.enable()
     
 if __name__ == "__main__":
     main()

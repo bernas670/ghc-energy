@@ -1,11 +1,14 @@
 inputs:
-  benchmarks: "./resources/inputs/progs-test.txt"
-  flags: "./resources/inputs/flags-test.txt"
+  # benchmarks: "./resources/inputs/progs-all.txt"
+  benchmarks: "./resources/inputs/progs.txt"
+  flags: "./resources/inputs/flags_O2.txt"
+  # flags: "./resources/inputs/flags-test.txt"
 
-number-of-executions: 10
+base-flags: "-O2"
+number-of-executions: 20
 
 temperature:
-  baseline: 40
+  baseline: 45
   # cooldown-interval: 0.
 
 outputs:
