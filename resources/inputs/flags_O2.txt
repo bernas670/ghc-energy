@@ -23,3 +23,5 @@
 -fno-unbox-small-strict-fields
 -fno-spec-constr
 -fno-liberate-case
+-funfolding-use-threshold=40
+-funfolding-use-threshold=160
