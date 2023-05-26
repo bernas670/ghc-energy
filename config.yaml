@@ -8,9 +8,9 @@ base-flags: "-O2"
 number-of-executions: 20
 
 temperature:
-  baseline: 45
+  baseline: 65
   # cooldown-interval: 0.
 
 outputs:
-  results: "./data/results.csv"
-  logs: "./data/logs.txt"
+  results: "./data/results_65_2.csv"
+  logs: "./data/logs_65_2.txt"

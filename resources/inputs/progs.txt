@@ -6,8 +6,12 @@ parallel/coins
 parallel/queens
 real/anna
 real/fluid
+shootout/fannkuch-redux
 shootout/binary-trees
+shootout/n-body
 shootout/pidigits
+shootout/reverse-complement
+shootout/spectral-norm
 smp/callback001
 smp/chan
 spectral/power
