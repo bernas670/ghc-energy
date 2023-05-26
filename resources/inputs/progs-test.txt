@@ -1,4 +1,1 @@
 shootout/fannkuch-redux
-shootout/n-body
-shootout/reverse-complement
-shootout/spectral-norm
