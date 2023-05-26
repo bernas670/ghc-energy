@@ -1,0 +1,194 @@
+[26/05/2023 09:18:12.285670] [CPU] - Heating up cpu
+[26/05/2023 09:18:17.019889] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 09:18:17.020170] [CPU] - Cooling down cpu
+[26/05/2023 09:18:17.022349] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:18:17.343121] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:18:18.187530] [CPU] - Heating up cpu
+[26/05/2023 09:18:18.199576] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 09:18:18.199863] [CPU] - Cooling down cpu
+[26/05/2023 09:18:18.202045] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:18:18.519861] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:18:19.362005] [CPU] - Cooling down cpu
+[26/05/2023 09:18:24.549632] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 09:18:24.873554] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:18:25.679353] [CPU] - Heating up cpu
+[26/05/2023 09:18:30.461906] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 09:18:30.462238] [CPU] - Cooling down cpu
+[26/05/2023 09:18:36.564675] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:18:36.890294] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:18:37.718489] [CPU] - Heating up cpu
+[26/05/2023 09:18:37.730340] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 09:18:37.730660] [CPU] - Cooling down cpu
+[26/05/2023 09:18:37.732958] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:18:38.050744] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:18:38.880520] [CPU] - Heating up cpu
+[26/05/2023 09:18:42.409647] [CPU] - Finished heating up cpu. Currently at 49.0ºC.
+[26/05/2023 09:18:42.409943] [CPU] - Cooling down cpu
+[26/05/2023 09:18:49.881468] [CPU] - Finished cooling down cpu. Currently at 42.0ºC.
+[26/05/2023 09:18:50.205497] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:18:51.035203] [CPU] - Heating up cpu
+[26/05/2023 09:18:54.356639] [CPU] - Finished heating up cpu. Currently at 46.0ºC.
+[26/05/2023 09:18:54.356968] [CPU] - Cooling down cpu
+[26/05/2023 09:19:01.831937] [CPU] - Finished cooling down cpu. Currently at 42.0ºC.
+[26/05/2023 09:19:02.154276] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:19:02.978259] [CPU] - Heating up cpu
+[26/05/2023 09:19:06.304340] [CPU] - Finished heating up cpu. Currently at 47.0ºC.
+[26/05/2023 09:19:06.304630] [CPU] - Cooling down cpu
+[26/05/2023 09:19:13.774219] [CPU] - Finished cooling down cpu. Currently at 43.0ºC.
+[26/05/2023 09:19:14.096583] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:19:14.927933] [CPU] - Heating up cpu
+[26/05/2023 09:19:18.251805] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 09:19:18.252111] [CPU] - Cooling down cpu
+[26/05/2023 09:19:25.724713] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 09:19:26.049380] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:19:26.874840] [CPU] - Heating up cpu
+[26/05/2023 09:19:28.706199] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 09:19:28.706462] [CPU] - Cooling down cpu
+[26/05/2023 09:19:28.708614] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:19:29.026326] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:19:29.856420] [CPU] - Heating up cpu
+[26/05/2023 09:19:29.869143] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 09:19:29.869442] [CPU] - Cooling down cpu
+[26/05/2023 09:19:29.871631] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:19:30.188856] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:19:31.032094] [CPU] - Cooling down cpu
+[26/05/2023 09:19:37.742263] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:19:38.060610] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:19:38.871570] [CPU] - Heating up cpu
+[26/05/2023 09:19:38.884469] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 09:19:38.884760] [CPU] - Cooling down cpu
+[26/05/2023 09:19:38.886924] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:19:39.204136] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:19:40.035487] [CPU] - Heating up cpu
+[26/05/2023 09:19:42.149009] [CPU] - Finished heating up cpu. Currently at 47.0ºC.
+[26/05/2023 09:19:42.149274] [CPU] - Cooling down cpu
+[26/05/2023 09:19:49.623252] [CPU] - Finished cooling down cpu. Currently at 43.0ºC.
+[26/05/2023 09:19:49.947247] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:19:50.775435] [CPU] - Heating up cpu
+[26/05/2023 09:19:54.098951] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 09:19:54.099289] [CPU] - Cooling down cpu
+[26/05/2023 09:20:01.573199] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 09:20:01.901397] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:20:02.730658] [CPU] - Heating up cpu
+[26/05/2023 09:20:04.553550] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 09:20:04.553848] [CPU] - Cooling down cpu
+[26/05/2023 09:20:04.556115] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:20:04.873896] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:20:05.702643] [CPU] - Heating up cpu
+[26/05/2023 09:20:05.716053] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 09:20:05.716399] [CPU] - Cooling down cpu
+[26/05/2023 09:20:05.718470] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 09:20:06.035720] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:20:06.865564] [CPU] - Cooling down cpu
+[26/05/2023 09:20:15.101094] [CPU] - Finished cooling down cpu. Currently at 42.0ºC.
+[26/05/2023 09:20:15.420982] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:20:16.231844] [CPU] - Heating up cpu
+[26/05/2023 09:20:19.488833] [CPU] - Finished heating up cpu. Currently at 47.0ºC.
+[26/05/2023 09:20:19.489172] [CPU] - Cooling down cpu
+[26/05/2023 09:20:26.962712] [CPU] - Finished cooling down cpu. Currently at 43.0ºC.
+[26/05/2023 09:20:27.286334] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:20:28.119364] [CPU] - Heating up cpu
+[26/05/2023 09:20:31.436022] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 09:20:31.436282] [CPU] - Cooling down cpu
+[26/05/2023 09:20:38.910057] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 09:20:39.233274] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 09:20:39.378296] [CMP] - OK    | 'shootout/fannkuch-redux' compiled with '-O2' and executed 20 times. Finished with return code: 0
+[26/05/2023 09:20:39.530100] [CLN] - OK    | 'shootout/fannkuch-redux' cleaned sucessfully.
+
+[26/05/2023 10:30:30.408062] [CPU] - Heating up cpu
+[26/05/2023 10:30:35.324646] [CPU] - Finished heating up cpu. Currently at 47.0ºC.
+[26/05/2023 10:30:35.325017] [CPU] - Cooling down cpu
+[26/05/2023 10:30:41.425603] [CPU] - Finished cooling down cpu. Currently at 43.0ºC.
+[26/05/2023 10:30:41.753025] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:30:42.584904] [CPU] - Heating up cpu
+[26/05/2023 10:30:45.783239] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 10:30:45.783525] [CPU] - Cooling down cpu
+[26/05/2023 10:30:45.785817] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 10:30:46.103627] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:30:46.930930] [CPU] - Heating up cpu
+[26/05/2023 10:30:46.943776] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 10:30:46.944062] [CPU] - Cooling down cpu
+[26/05/2023 10:30:46.946201] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 10:30:47.263621] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:30:48.093138] [CPU] - Cooling down cpu
+[26/05/2023 10:30:54.805190] [CPU] - Finished cooling down cpu. Currently at 42.0ºC.
+[26/05/2023 10:30:55.129888] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:30:55.939704] [CPU] - Heating up cpu
+[26/05/2023 10:30:59.228654] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 10:30:59.228978] [CPU] - Cooling down cpu
+[26/05/2023 10:30:59.231168] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 10:30:59.549407] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:31:00.379155] [CPU] - Heating up cpu
+[26/05/2023 10:31:00.391917] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 10:31:00.392221] [CPU] - Cooling down cpu
+[26/05/2023 10:31:00.394466] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 10:31:00.711765] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:31:01.536949] [CPU] - Cooling down cpu
+[26/05/2023 10:31:08.244731] [CPU] - Finished cooling down cpu. Currently at 43.0ºC.
+[26/05/2023 10:31:08.580213] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:31:09.386405] [CPU] - Heating up cpu
+[26/05/2023 10:31:12.677044] [CPU] - Finished heating up cpu. Currently at 47.0ºC.
+[26/05/2023 10:31:12.677352] [CPU] - Cooling down cpu
+[26/05/2023 10:31:20.292790] [CPU] - Finished cooling down cpu. Currently at 43.0ºC.
+[26/05/2023 10:31:20.618099] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:31:21.451963] [CPU] - Heating up cpu
+[26/05/2023 10:31:24.626087] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 10:31:24.626347] [CPU] - Cooling down cpu
+[26/05/2023 10:31:32.099177] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 10:31:32.423392] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:31:33.255309] [CPU] - Heating up cpu
+[26/05/2023 10:31:36.575663] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 10:31:36.576013] [CPU] - Cooling down cpu
+[26/05/2023 10:31:44.049367] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 10:31:44.369964] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:31:45.199679] [CPU] - Heating up cpu
+[26/05/2023 10:31:48.525123] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 10:31:48.525395] [CPU] - Cooling down cpu
+[26/05/2023 10:31:56.140383] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 10:31:56.460662] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:31:57.291844] [CPU] - Heating up cpu
+[26/05/2023 10:32:00.472440] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 10:32:00.472748] [CPU] - Cooling down cpu
+[26/05/2023 10:32:08.087702] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 10:32:08.409933] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:32:09.240005] [CPU] - Heating up cpu
+[26/05/2023 10:32:12.422209] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 10:32:12.422512] [CPU] - Cooling down cpu
+[26/05/2023 10:32:19.893162] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 10:32:20.213054] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:32:21.043818] [CPU] - Heating up cpu
+[26/05/2023 10:32:24.373039] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 10:32:24.373305] [CPU] - Cooling down cpu
+[26/05/2023 10:32:31.988820] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 10:32:32.309448] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:32:33.138718] [CPU] - Heating up cpu
+[26/05/2023 10:32:36.322571] [CPU] - Finished heating up cpu. Currently at 49.0ºC.
+[26/05/2023 10:32:36.322878] [CPU] - Cooling down cpu
+[26/05/2023 10:32:43.938758] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 10:32:44.259285] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:32:45.086638] [CPU] - Heating up cpu
+[26/05/2023 10:32:46.779548] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 10:32:46.779853] [CPU] - Cooling down cpu
+[26/05/2023 10:32:46.782083] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 10:32:47.099867] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:32:47.927325] [CPU] - Heating up cpu
+[26/05/2023 10:32:47.940568] [CPU] - Finished heating up cpu. Currently at 45.0ºC.
+[26/05/2023 10:32:47.940876] [CPU] - Cooling down cpu
+[26/05/2023 10:32:47.943018] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 10:32:48.261332] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:32:49.089396] [CPU] - Cooling down cpu
+[26/05/2023 10:32:57.321068] [CPU] - Finished cooling down cpu. Currently at 42.0ºC.
+[26/05/2023 10:32:57.641974] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:32:58.452795] [CPU] - Heating up cpu
+[26/05/2023 10:33:01.717062] [CPU] - Finished heating up cpu. Currently at 47.0ºC.
+[26/05/2023 10:33:01.717329] [CPU] - Cooling down cpu
+[26/05/2023 10:33:09.191778] [CPU] - Finished cooling down cpu. Currently at 44.0ºC.
+[26/05/2023 10:33:09.518115] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:33:10.342467] [CPU] - Heating up cpu
+[26/05/2023 10:33:13.667550] [CPU] - Finished heating up cpu. Currently at 48.0ºC.
+[26/05/2023 10:33:13.667830] [CPU] - Cooling down cpu
+[26/05/2023 10:33:21.282674] [CPU] - Finished cooling down cpu. Currently at 45.0ºC.
+[26/05/2023 10:33:21.603302] [RUN] - OK    | 'fannkuch-redux' compiled with '-O2' terminated with return code: 0
+[26/05/2023 10:33:21.748052] [CMP] - OK    | 'shootout/fannkuch-redux' compiled with '-O2' and executed 20 times. Finished with return code: 0
+[26/05/2023 10:33:21.899617] [CLN] - OK    | 'shootout/fannkuch-redux' cleaned sucessfully.
+
