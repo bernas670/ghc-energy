@@ -70,3 +70,30 @@ def random_sampling(df1: pd.DataFrame, df2: pd.DataFrame, col: str, reps: int, l
     # pvalue = np.count_nonzero(pd.Series(mean_diffs) <= org_mean_diff) / reps
 
     return pvalue, mean_diffs, org_mean_diff
+
+
+def remove_outliers(df, column):
+    progs, flags = df['program'].unique(), df['flag'].unique()
+    
+    df_length = len(df)
+    
+    for prog in progs:
+        for flag in flags:
+            data = df[(df['flag'] == flag) & (df['program'] == prog)]
+            
+            q75, q25 = data[column].quantile(q=0.75), data[column].quantile(q=0.25)
+            intr_qr = q75 - q25
+
+            max = q75 + (1.5 * intr_qr)
+            min = q25 - (1.5 * intr_qr)
+
+            data.loc[data[column] < min,column] = np.nan
+            data.loc[data[column] > max,column] = np.nan
+            
+            df[(df['flag'] == flag) & (df['program'] == prog)] = data.dropna(axis=0)
+            
+    df = df.dropna(axis=0)
+    
+    print(f"Removed {df_length - len(df)} outliers")
+    
+    return df
